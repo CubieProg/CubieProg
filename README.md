@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CubieProg
 - 👀 I’m interested in programming of graphic editors and math (algebra, grouop theory, knot theory, braid theory, topology, numerical methods)
-- 🌱 I’m currently learning knot/braid-theory, discrete element method for liquids and gases
+- 🌱 I’m currently learning knot/braid theory, discrete element method for liquids and gases
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
